@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="next">Berikutnya</string>
+
+    <!-- Artwork 1: Kapal Dilanda Badai -->
+    <string name="artwork_1_title">Kapal Dilanda Badai</string>
+    <string name="artwork_1_artist">Raden Saleh</string>
+    <string name="artwork_1_year">1837</string>
+    <string name="artwork_1_description">Lukisan romantisisme karya Raden Saleh yang menggambarkan perjuangan dramatis dua buah kapal dalam menghadapi terjang ombak dan badai dahsyat di laut lepas.</string>
+
+    <!-- Artwork 2: Penangkapan Pangeran Diponegoro -->
+    <string name="artwork_2_title">Penangkapan Pangeran Diponegoro</string>
+    <string name="artwork_2_artist">Raden Saleh</string>
+    <string name="artwork_2_year">1857</string>
+    <string name="artwork_2_description">Mahakarya sejarah yang mengisahkan peristiwa penangkapan Pangeran Diponegoro oleh Jenderal De Kock yang menandai berakhirnya Perang Jawa.</string>
+
+    <!-- Artwork 3: Kawan-kawan Republik -->
+    <string name="artwork_3_title">Kawan-kawan Republik</string>
+    <string name="artwork_3_artist">S. Sudjojono</string>
+    <string name="artwork_3_year">1947</string>
+    <string name="artwork_3_description">Karya seni ekspresionistis yang merekam wajah-wajah persaudaraan dan keteguhan para pejuang kemerdekaan Indonesia.</string>
+
+    <!-- Artwork 4: Nighthawks -->
+    <string name="artwork_4_title">Nighthawks</string>
+    <string name="artwork_4_artist">Edward Hopper</string>
+    <string name="artwork_4_year">1942</string>
+    <string name="artwork_4_description">Lukisan ikonik yang menangkap suasana kesepian dan keterasingan di sebuah kedai makan larut malam di tengah kota modern Amerika.</string>
+
+    <!-- Artwork 5: The False Mirror -->
+    <string name="artwork_5_title">The False Mirror</string>
+    <string name="artwork_5_artist">René Magritte</string>
+    <string name="artwork_5_year">1928</string>
+    <string name="artwork_5_description">Karya surealisme sureal yang menampilkan gambar mata manusia berukuran raksasa dengan retina berbentuk pemandangan awan dan langit biru.</string>
+</resources>
